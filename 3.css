@@ -7,3 +7,6 @@ table, th, td {
     text-align: center;
     padding: 10px;  /* 增加内边距 */
 }
+yellow {
+    color: #ee8916;
+}
